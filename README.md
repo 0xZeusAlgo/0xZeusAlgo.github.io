@@ -16,6 +16,8 @@ Zeus Algo 5 minute timeframe
 ![Image](https://github.com/0xZeusAlgo/0xZeusAlgo.github.io/blob/c757f5441ed60be3c28d565a8e0a075c2f5ceaab/ZeusAlgo5min.png)
 
 Zeus Algo Settings
+
+
 ![Image](https://github.com/0xZeusAlgo/0xZeusAlgo.github.io/blob/c757f5441ed60be3c28d565a8e0a075c2f5ceaab/Setttigns.PNG)
 
 Zeus Algo Table
