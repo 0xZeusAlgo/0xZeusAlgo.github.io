@@ -9,4 +9,4 @@ A Comprehnsive Trading Indicator For [Tradingview](https://www.tradingview.com/)
 [Flux Check](https://flux.2miners.com/account/t1R6uwva2hD9NnX287WiMaKeMqkLxoDCwqP#rewards-tab)
 
 
-//![Image](src)
+![Image](ZeusAlgo 30min All Settigns On.png)
