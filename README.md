@@ -8,5 +8,12 @@ A Comprehnsive Trading Indicator For [Tradingview](https://www.tradingview.com/)
 [Ethermine Check](https://ethermine.org/miners/66265ba0c9c2fb4921b2d1738541aab9b9f2f3c4/dashboard)
 [Flux Check](https://flux.2miners.com/account/t1R6uwva2hD9NnX287WiMaKeMqkLxoDCwqP#rewards-tab)
 
-
+### **Zeus Algo Screenshots**
+30 minute timeframe
 ![Image](https://github.com/0xZeusAlgo/0xZeusAlgo.github.io/blob/6b65b435603788dda98745235cf5eec0910f7402/ZeusAlgo%2030min%20All%20Settigns%20On.png)
+
+5 minute timeframe
+![Image]()
+
+Zeus Algo Settings
+![Image]()
