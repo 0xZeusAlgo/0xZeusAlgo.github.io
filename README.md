@@ -10,23 +10,26 @@ A Comprehnsive Trading Indicator For [Tradingview](https://www.tradingview.com/)
 
 ### **Zeus Algo Screenshots**
 Zeus Algo 30 minute timeframe
-![Image](https://github.com/0xZeusAlgo/0xZeusAlgo.github.io/blob/6b65b435603788dda98745235cf5eec0910f7402/ZeusAlgo%2030min%20All%20Settigns%20On.png)
+![Image](https://raw.githubusercontent.com/0xZeusAlgo/0xZeusAlgo.github.io/main/ZeusAlgo%2030min%20All%20Settigns%20On.png)
 
 Zeus Algo 5 minute timeframe
-![Image](https://github.com/0xZeusAlgo/0xZeusAlgo.github.io/blob/c757f5441ed60be3c28d565a8e0a075c2f5ceaab/ZeusAlgo5min.png)
+![Image](https://raw.githubusercontent.com/0xZeusAlgo/0xZeusAlgo.github.io/main/ZeusAlgo5min.png)
 
 Zeus Algo Settings
 
 
-![Image](https://github.com/0xZeusAlgo/0xZeusAlgo.github.io/blob/c757f5441ed60be3c28d565a8e0a075c2f5ceaab/Setttigns.PNG)
+![Image](https://raw.githubusercontent.com/0xZeusAlgo/0xZeusAlgo.github.io/main/Setttigns.PNG)
 
 Zeus Algo Table
 
 
-![Image](https://github.com/0xZeusAlgo/0xZeusAlgo.github.io/blob/c757f5441ed60be3c28d565a8e0a075c2f5ceaab/Table.PNG)
+![Image](https://raw.githubusercontent.com/0xZeusAlgo/0xZeusAlgo.github.io/main/Table.PNG)
 
 Zeus Algo Scalp Reversals
-![Image](https://github.com/0xZeusAlgo/0xZeusAlgo.github.io/blob/c757f5441ed60be3c28d565a8e0a075c2f5ceaab/ShortermReversals.png)
+![Image](https://raw.githubusercontent.com/0xZeusAlgo/0xZeusAlgo.github.io/main/ShortermReversals.png)
 
 Zeus Algo Crayons + Cloud
-![Image](https://github.com/0xZeusAlgo/0xZeusAlgo.github.io/blob/c757f5441ed60be3c28d565a8e0a075c2f5ceaab/Crayons%20and%20cloud.png)
+![Image](https://raw.githubusercontent.com/0xZeusAlgo/0xZeusAlgo.github.io/main/Crayons%20and%20cloud.png)
+
+Zeus Algo Market Strucutre
+![Image](https://raw.githubusercontent.com/0xZeusAlgo/0xZeusAlgo.github.io/main/HHLLMarket.png)
