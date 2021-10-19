@@ -2,10 +2,10 @@
 Welcome to Zeus Algo
 
 ## My Trading Suite
-[Coinalyze](https://coinalyze.net/bitcoin/usd/bybit/btcusd/price-chart-live/)
-[TradingLite](https://tradinglite.com/chart/XllvsmQ6/coinbase/BTC-USD/5)
-[Tradingview](https://www.tradingview.com/)
-[Chart](https://www.tradingview.com/chart/NnOAmg2b/)
+[Coinalyze OI CVD](https://coinalyze.net/bitcoin/usd/bybit/btcusd/price-chart-live/)
+[TradingLite Coinbase 5min](https://tradinglite.com/chart/XllvsmQ6/coinbase/BTC-USD/5)
+[Chart S/R Whale Finder](https://www.tradingview.com/chart/NnOAmg2b/)
+[Chart Zwap QQE Pivots](https://www.tradingview.com/chart/wOCuFOnM/)
 
 
 ### **Mining Checks**
